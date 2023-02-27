@@ -68,18 +68,30 @@
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff" />
 </p>
 
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=IceDev528&column=7&theme=onedark"/>
+</p>
+
+
+## Github Stats
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=IceDev528&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IceDev528&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+</p>
+</details>
+
 <h3>Demo</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=Derek_Portfolio)](https://github.com/jaguar-person/Derek_Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=betting-site)](https://github.com/jaguar-person/betting-site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiser3029&repo=portfolio)](https://github.com/kaiser3029/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiser3029&repo=ncnn_mobile_platform)](https://github.com/kaiser3029/ncnn_mobile_platform)
 
-<h3>Statistics</h3>
-
-![Jaguar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguar-person&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaguar-person&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3>My stats in Github</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=jaguar-person">
-
-
+## <p align="center">😇 Contact Me 😇</p>
+  <div align="center"> 
+   <a href="mailto:kaiser3029@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/JScyn0BMIJ8S" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/kaiser3029" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+  &nbsp;&nbsp;
+</div>
 ------------
