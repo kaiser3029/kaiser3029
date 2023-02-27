@@ -5,12 +5,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" />
+  <img src="https://github.com/kaiser3029/Logo.gif" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;6+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;8+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
   </a>
 </p>
 
