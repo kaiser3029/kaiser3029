@@ -4,9 +4,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h5>I am Web Full-Stack Developer with +7 years experience in various part of Web developement.
-I am always interested in web technology, so If you want to exchange or ask for some problems :
-</h5>
+<p align="center">
+  <img src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;6+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+  </a>
+</p>
+
 
 
 <h3>Major Languages</h3>
